@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "4DZDFN38PuBhVqwGzAsAE12nvtBKw4LDxLKhNqy0mi0=",
+  "Source": "AspReactApp.Server",
+  "BasePath": "_content/AspReactApp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\mulya\\source\\repos\\AspReactApp\\aspreactapp.client\\aspreactapp.client.esproj",
+      "Version": 2,
+      "Source": "aspreactapp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
